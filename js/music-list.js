@@ -18,7 +18,7 @@ let allMusic = [
     },
     {
       name: "No me arrepiento de este amor",
-      artist: "Los de siempre - la curva de oriente",
+      artist: " la curva de oriente",
       img: "nomearrepiento",
       src: "nomearrepiento"
     },
