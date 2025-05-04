@@ -18,13 +18,13 @@ let allMusic = [
     },
     {
       name: "No me arrepiento de este amor",
-      artist: "La Vagancia - Potola",
+      artist: "Los de siempre - la curva de oriente",
       img: "nomearrepiento",
       src: "nomearrepiento"
     },
     {
       name: "Desde la cuna",
-      artist: "POTOLA-VAGANCIA",
+      artist: "Los de siempre - la curva de oriente",
       img: "Desdeelacuna",
       src: "desdeelacuna"
     },
@@ -42,7 +42,7 @@ let allMusic = [
     },
     {
       name: "mix los de siempre",
-      artist: "POTOLA-VAGANCIA",
+      artist: "la curva de oriente",
       img: "music-6",
       src: "esunalokura"
     },
