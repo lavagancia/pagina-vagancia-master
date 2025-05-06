@@ -20,7 +20,7 @@ let allMusic = [
       name: "No me arrepiento",
       artist: " la curva de oriente",
       img: "curva2",
-      src: "curva2"
+      src: "nomearrepiento"
     },
     {
       name: "Desde la cuna",
