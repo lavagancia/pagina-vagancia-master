@@ -13,18 +13,18 @@ let allMusic = [
     {
       name: "bandeau",
       artist: "la banda del aguante",
-      img: "2005",
+      img: "",
       src: "banda"
     },
     {
-      name: "No me arrepiento de este amor",
+      name: "No me arrepiento",
       artist: " la curva de oriente",
       img: "nomearrepiento",
       src: "nomearrepiento"
     },
     {
       name: "Desde la cuna",
-      artist: "Los de siempre - la curva de oriente",
+      artist: "Los de siempre",
       img: "Desdeelacuna",
       src: "desdeelacuna"
     },
