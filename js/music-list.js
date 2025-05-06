@@ -25,7 +25,7 @@ let allMusic = [
     {
       name: "Desde la cuna",
       artist: "Los de siempre",
-      img: "cmusic-6",
+      img: "music-6",
       src: "desdeelacuna"
     },
     {
