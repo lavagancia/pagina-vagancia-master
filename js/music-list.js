@@ -13,7 +13,7 @@ let allMusic = [
     {
       name: "bandeau",
       artist: "la banda del aguante",
-      img: "curva1",
+      img: "banda",
       src: "curva1"
     },
     {
